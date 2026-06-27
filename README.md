@@ -1,5 +1,3 @@
-# docker-wsl-homelab
-
 # Docker & WSL2 Homelab
 
 <img width="1073" height="732" alt="docker6" src="https://github.com/user-attachments/assets/59e96983-f857-43e5-b2c8-868adf8ccee9" />
