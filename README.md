@@ -70,7 +70,7 @@ README.md
 
 ---
 
-## Lessons Learned
+## Lessons Learned During this Lab SetUp
 
 One of the biggest takeaways from this project was that Docker installation is often straightforward—but integrating Docker Desktop with WSL2 and resolving Linux permission issues requires understanding how Docker communicates with the Docker daemon through the Unix socket.
 
